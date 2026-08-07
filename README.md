@@ -112,10 +112,6 @@ LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
 
 GitHub: https://github.com/nicolas-zarate
 
-<img width="1840" height="795" alt="image" src="https://github.com/user-attachments/assets/6e791407-54ad-4316-b54c-527aa020e55e" />
-
-<img width="1864" height="782" alt="image" src="https://github.com/user-attachments/assets/c54637ce-368d-48a2-aac8-2681586e5100" />
-
-<img width="1735" height="539" alt="image" src="https://github.com/user-attachments/assets/9ce30688-6e9e-4bff-8e2b-14629ea570d8" />
+<img width="775" height="781" alt="image" src="https://github.com/user-attachments/assets/12465f64-3131-4ca2-b2cb-3a5f12c443c2" />
 
 
