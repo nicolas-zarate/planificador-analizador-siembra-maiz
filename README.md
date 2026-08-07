@@ -71,3 +71,41 @@ Solo hay que agregarle el año de siembra en el que estamos proyectandonos y de 
 - Modelado y transformación de datos
 - Macros VBA, con apoyo de Gemini para poder ejecutarlas.
 
+---
+
+## 📈 Resultado del proyecto
+
+Este proyecto demuestra como Excel puede evolucionar de una simple planilla de cálculo a una herramienta capaz de automatizar procesos, consumir información desde APIs externas y generar visualizaciones dinámicas para apoyar la toma de decisiones.
+
+La integración entre VBA, Power Query y la API de Open-Meteo permitió desarrollar una solución que automatiza la obtención y el procesamiento de datos climáticos, facilitando tanto el análisis de campañas finalizadas como la planificación de futuras estrategias de siembra.
+
+Más allá del resultado técnico, el objetivo fue desarrollar una herramienta práctica que resuelva una necesidad real mediante la automatización y el análisis de datos.
+
+## 📂 Estructura del proyecto
+
+```text
+📦 climate-crop-planner
+│
+├── 📄 README.md
+│
+├── 📁 applications
+│   ├── 📊 Analizador_Campaña_2025_2026.xlsm
+│   └── 📈 Planificador_Climático.xlsm
+│
+├── 📁 images
+│   ├── analizador.png
+│   ├── planificador.png
+│   ├── grafico.png
+│   └── demo.gif
+│
+└── 📁 examples
+    └── 📍 Coordenadas_de_Ejemplo.xlsx
+```
+
+## 👨‍💻 Autor
+
+Nicolás Zárate
+
+LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
+
+GitHub: https://github.com/nicolas-zarate
