@@ -59,7 +59,7 @@ De esta forma es posible evaluar cómo influyeron las condiciones ambientales du
 
 Funciona de manera similar al **Analizador Climático**. 
 
-Solo hay que agregarle el año de siembra en el que estamos proyectandonos y de esta forma, nos va a representar en el gráfico, los periodos críticos sobre un gráfico climático que contiene eñ **promedio climático de los últimos 15 años**.
+Solo hay que agregarle el año de siembra en el que estamos proyectandonos y de esta forma, nos va a representar en el gráfico, los periodos críticos sobre un gráfico climático que contiene el **promedio climático de los últimos 15 años**.
 
 ---
 
@@ -80,6 +80,8 @@ Este proyecto demuestra como Excel puede evolucionar de una simple planilla de c
 La integración entre VBA, Power Query y la API de Open-Meteo permitió desarrollar una solución que automatiza la obtención y el procesamiento de datos climáticos, facilitando tanto el análisis de campañas finalizadas como la planificación de futuras estrategias de siembra.
 
 Más allá del resultado técnico, el objetivo fue desarrollar una herramienta práctica que resuelva una necesidad real mediante la automatización y el análisis de datos.
+
+---
 
 ## 📂 Estructura del proyecto
 
