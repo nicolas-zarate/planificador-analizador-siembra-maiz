@@ -100,8 +100,8 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 │   ├── grafico.png
 │   └── demo.gif
 │
-└── 📁 examples
-    └── 📍 Coordenadas_de_Ejemplo.xlsx
+└── 📁 ejemplos
+    └── 📍 coordenadas.txt
 ```
 
 ## 👨‍💻 Autor
