@@ -91,8 +91,8 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 ├── 📄 README.md
 │
 ├── 📁 applications
-│   ├── 📊 Analizador_Campaña_2025_2026.xlsm
-│   └── 📈 Planificador_Climático.xlsm
+│   ├── 📊 Analizador_siembra_maiz_2526.xlsm
+│   └── 📈 Planificador_siembra_maiz.xlsm
 │
 ├── 📁 images
 │   ├── analizador.png
