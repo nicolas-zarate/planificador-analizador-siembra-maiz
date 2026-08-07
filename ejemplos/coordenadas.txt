@@ -1,0 +1,15 @@
+Río Cuarto, Córdoba
+Latitud:  -33.133
+Longitud: -64.350
+
+Pergamino, Buenos Aires
+Latitud:  -33.883
+Longitud: -60.567
+
+Bahia Blanca, Buenos Aires
+Latitud:  -38.718
+Longitud: -62.267
+
+Manfredi, Córdoba
+Latitud: -31.844
+Longitud -63.746
