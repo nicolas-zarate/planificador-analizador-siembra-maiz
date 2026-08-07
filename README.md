@@ -95,7 +95,7 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 │   └── 📈 Planificador_siembra_maiz.xlsm
 │
 ├── 📁 images
-│   ├── analizador.png
+│   ├── calculadora_planificador.png
 │   ├── planificador.png
 │   ├── grafico.png
 │   └── demo.gif
@@ -112,6 +112,5 @@ LinkedIn: https://www.linkedin.com/in/nicolaszarate99/
 
 GitHub: https://github.com/nicolas-zarate
 
-<img width="775" height="781" alt="image" src="https://github.com/user-attachments/assets/12465f64-3131-4ca2-b2cb-3a5f12c443c2" />
 
 
