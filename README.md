@@ -1,4 +1,4 @@
-# 🌱 Climate Crop Planner
+# 🌱 Planificador y Analizador de siembra de Maíz
 
 ## 📌 Descripción
 Automatización del análisis y la planificación de campañas agrícolas mediante Excel, VBA y Open-Meteo.
