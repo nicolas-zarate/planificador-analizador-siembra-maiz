@@ -16,10 +16,15 @@ El objetivo no fue únicamente visualizar datos climáticos, sino desarrollar un
 ## 🚀 Características
 
 🌎 Obtención automática del clima mediante coordenadas.
+
 📊 Análisis de campañas históricas.
+
 📈 Planificación de campañas futuras.
+
 ⚡ Automatización mediante VBA.
+
 ☁️ Integración de API Open-Meteo.
+
 📉 Visualización de períodos críticos mediante diagramas Gantt.
 
 ---
