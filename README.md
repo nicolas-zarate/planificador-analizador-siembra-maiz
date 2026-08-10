@@ -93,7 +93,7 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 ## 📂 Estructura del proyecto
 
 ```text
-📦 climate-crop-planner
+📦 planificador-analizador-siembra-maiz
 │
 ├── 📄 README.md
 │
