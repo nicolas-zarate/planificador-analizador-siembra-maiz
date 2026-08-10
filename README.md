@@ -1,9 +1,16 @@
-# 🌱 Planificador y Analizador de siembra de Maíz
+# 🌱 Planificador y Analizador climático para siembra de Maíz
 
 ## 📌 Descripción
-Automatización del análisis y la planificación de campañas agrícolas mediante Excel, VBA y Open-Meteo.
+Herramienta desarrollada en Excel para automatizar el análisis y la planificación de campañas de maíz mediante datos climáticos obtenidos desde Open-Meteo, Power Query y VBA.
 
 <img width="1865" height="822" alt="image" src="https://github.com/user-attachments/assets/bdf4e675-d230-4038-88f2-79ba1e2cde47" />
+
+---
+
+## 📈 Todo surge de...
+
+Este proyecto representa la evolución de mi primer proyecto de análisis climático. Inicialmente, la herramienta permitía analizar únicamente una campaña agrícola utilizando datos climáticos de una ubicación específica. A partir de esa experiencia, decidí ampliar su alcance incorporando la obtención automática de datos meteorológicos mediante coordenadas geográficas y desarrollando un módulo de planificación basado en información histórica.
+El resultado es una herramienta que combina análisis y planificación en una única aplicación, capaz de adaptarse a cualquier ubicación y facilitar la toma de decisiones a partir de datos climáticos.
 
 ---
 
@@ -69,7 +76,7 @@ Solo hay que agregarle el año de siembra en el que estamos proyectandonos y de 
 - Power Query
 - Gráficos combinados
 - Modelado y transformación de datos
-- Macros VBA, con apoyo de Gemini para poder ejecutarlas.
+- Macros VBA con asistencia de IA para acelerar la implementación.
 
 ---
 
@@ -90,7 +97,7 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 │
 ├── 📄 README.md
 │
-├── 📁 applications
+├── 📁 excel-files
 │   ├── 📊 Analizador_siembra_maiz_2526.xlsm
 │   └── 📈 Planificador_siembra_maiz.xlsm
 │
