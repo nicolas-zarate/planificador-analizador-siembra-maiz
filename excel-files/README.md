@@ -2,7 +2,7 @@
 
 Esta carpeta contiene las dos herramientas desarrolladas para el proyecto.
 
-https://raw.githubusercontent.com/nicolas-zarate/planificador-analizador-siembra-maiz/refs/heads/main/imagenes/demo.gif
+![Demostración](../imagenes/demo.gif)
 
 ## 1. Analizador Climático – Campaña 2025/2026
 
