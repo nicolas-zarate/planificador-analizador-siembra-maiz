@@ -2,6 +2,8 @@
 
 Esta carpeta contiene las dos herramientas desarrolladas para el proyecto.
 
+<img width="706" height="380" alt="image" src="https://github.com/user-attachments/assets/cd22ea6b-c6a6-4510-b16f-544f28677390" />
+
 ## 1. Analizador Climático – Campaña 2025/2026
 
 Permite analizar una campaña ya finalizada utilizando datos climáticos reales obtenidos desde Open-Meteo.
