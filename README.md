@@ -7,16 +7,16 @@ Herramienta desarrollada en Excel para automatizar el análisis y la planificaci
 
 ---
 
-## 📈 Todo surge de...
-
-Este proyecto representa la evolución de mi primer proyecto de análisis climático. Inicialmente, la herramienta permitía analizar únicamente una campaña agrícola utilizando datos climáticos de una ubicación específica. A partir de esa experiencia, decidí ampliar su alcance incorporando la obtención automática de datos meteorológicos mediante coordenadas geográficas y desarrollando un módulo de planificación basado en información histórica.
-El resultado es una herramienta que combina análisis y planificación en una única aplicación, capaz de adaptarse a cualquier ubicación y facilitar la toma de decisiones a partir de datos climáticos.
-
----
-
 ## 🎯 Objetivo
 Este proyecto busca demostrar cómo herramientas ampliamente utilizadas en entornos empresariales, como Microsoft Excel, pueden combinarse con VBA, Power Query y APIs públicas para automatizar procesos de análisis y planificación agrícola.
 El objetivo no fue únicamente visualizar datos climáticos, sino desarrollar una herramienta capaz de asistir en la toma de decisiones relacionadas con la planificación de campañas, reduciendo tiempos de procesamiento y facilitando la interpretación de la información.
+
+---
+
+## 📈 Todo surge de...
+
+la evolución de mi primer proyecto de análisis climático. 
+Inicialmente, la herramienta permitía analizar únicamente una campaña agrícola utilizando datos climáticos de una ubicación específica. A partir de aqui, decidí ampliar su alcance incorporando la obtención automática de datos meteorológicos mediante coordenadas geográficas y desarrollando un módulo de planificación basado en información histórica.
 
 ---
 
