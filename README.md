@@ -3,7 +3,7 @@
 ## 📌 Descripción
 Automatización del análisis y la planificación de campañas agrícolas mediante Excel, VBA y Open-Meteo.
 
-<img width="1863" height="844" alt="image" src="https://github.com/user-attachments/assets/ece19fbe-3580-4806-a94a-533e79f69466" />
+<img width="1862" height="822" alt="image" src="https://github.com/user-attachments/assets/c32168b3-986c-41ea-ac24-5aa5d4a1ee9b" />
 
 ---
 
