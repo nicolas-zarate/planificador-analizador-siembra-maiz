@@ -99,7 +99,9 @@ Más allá del resultado técnico, el objetivo fue desarrollar una herramienta p
 │
 ├── 📁 excel-files
 │   ├── 📊 Analizador_siembra_maiz_2526.xlsm
-│   └── 📈 Planificador_siembra_maiz.xlsm
+│   ├── 📈 Planificador_siembra_maiz.xlsm
+│   └── README.md
+│
 │
 ├── 📁 images
 │   ├── calculadora_planificador.png
