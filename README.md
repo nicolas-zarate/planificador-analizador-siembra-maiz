@@ -36,7 +36,7 @@ Inicialmente, la herramienta permitía analizar únicamente una campaña agríco
 
 ---
 
-## 📊 Analizador Climático – Campaña 2025/26
+## 📊📈 Analizador Climático – Campaña 2025/26
 
 Esta herramienta permite analizar las condiciones climáticas reales de la campaña agrícola **2025/2026** para cualquier ubicación.
 
@@ -62,7 +62,7 @@ De esta forma es posible evaluar cómo influyeron las condiciones ambientales du
 
 ---
 
-## 📈 Planificador Climático – Proyección Histórica (15 años)
+## 📊📈 Planificador Climático – Proyección Histórica (15 años)
 
 Funciona de manera similar al **Analizador Climático**. 
 
